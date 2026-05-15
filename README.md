@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://github.com/SkillsQuark/SkillsQuark/blob/main/image/Full-Logo.png" width="100%">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SkillsQuark&fontAlign=50&fontAlignY=35&desc=Advanced%20Technology%20%26%20Skill%20Development&descAlign=50&descAlignY=60&color=gradient" width="100%"/>
