@@ -139,9 +139,7 @@ Structured evaluations to identify skill gaps, guide career decisions, and valid
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkillsQuark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkillsQuark&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkillsQuark&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
 </div>
 
 ---
